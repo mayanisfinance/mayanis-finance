@@ -1,0 +1,17 @@
+{
+  "name": "mayanis-finance",
+  "version": "1.0.0",
+  "description": "Comprehensive AI-powered financial platform with 65+ banking partners",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'Build complete'",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
